@@ -1,7 +1,8 @@
 # Udacity - Data analyst nano degree - Asignment 1 - Exploring weather trends
 This is a notebook performing basic statistical analysis to describe changes in London temperatures in relation to global temperatures.
 
-**Stastical techniques used**: Linear regression, rolling averages, population mean.
+**Stastical techniques used**: 
+``` Linear regression, rolling averages, population mean.```
 
 **Python packages used**: Pandas, numpy, seaborn and matplotlib.
 
